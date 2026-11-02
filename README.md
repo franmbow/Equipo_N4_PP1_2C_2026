@@ -77,7 +77,7 @@ El proyecto se organizó en tres sprints, con seguimiento de tareas en Trello. E
 
 ## ✅ Conclusiones
  
-Según el análisis del equipo, la saturación de la red de alta tensión (SADI) reconfiguró las inversiones: las centrales nuevas dejaron la Patagonia por Buenos Aires y el Centro, pasaron de grandes parques eólicos a parques solares más chicos y dejaron de depender de licitaciones estatales para apoyarse en acuerdos entre privados. La falta de transporte no frenó a las renovables, pero las obligó a adaptarse.
+La saturación de la red de alta tensión (SADI) reconfiguró las inversiones: las centrales nuevas dejaron la Patagonia por Buenos Aires y el Centro, pasaron de grandes parques eólicos a parques solares más chicos y dejaron de depender de licitaciones estatales para apoyarse en acuerdos entre privados. La falta de transporte no frenó a las renovables, pero las obligó a adaptarse.
  
 ---
 
