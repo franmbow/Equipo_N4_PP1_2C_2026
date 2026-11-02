@@ -10,9 +10,7 @@ Repositorio oficial para el desarrollo del proyecto integrador correspondiente a
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto consiste en el análisis de el sector energetico renovable en la argentina.
-
-El objetivo principal es aplicar buenas prácticas de ciencias de datos, desarrollo colaborativo, metodologías ágiles y control de versiones mediante Git/GitHub.
+Este proyecto analiza la evolución del sector eléctrico renovable en Argentina entre 2011 y 2025: cómo creció la generación, dónde se instalaron las centrales nuevas, qué tecnologías predominaron y a través de qué programas se incorporaron.
 
 ---
 
@@ -28,6 +26,10 @@ El objetivo principal es aplicar buenas prácticas de ciencias de datos, desarro
 ---
 
 ## 🛠️ Tecnologías y Herramientas
+
+### Análisis y Visualización
+- **OpenRefine:** limpieza y transformación de los datos.
+- **Power BI:** construcción del dashboard interactivo.
 
 ### Gestión y Colaboración
 - **Control de Versiones y Almacenamiento de Archivos:** Drive & GitHub
